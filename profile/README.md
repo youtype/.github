@@ -2,8 +2,15 @@
 
 You type, we autocomplete!
 
-Use type checking and code completion to write more readable, maintainable code for AWS using Python.
-Type annotations are compatible with VSCode, PyCharm, Emacs, Sublime Text, mypy, pyright and other tools.
+Use type checking and code completion to write more readable, maintainable code for [AWS](https://aws.amazon.com/) using [Python](https://www.python.org/).
+Type annotations are compatible with
+[VSCode](https://code.visualstudio.com/),
+[PyCharm](https://www.jetbrains.com/pycharm/),
+[Emacs](https://www.gnu.org/software/emacs/),
+[Sublime Text](https://www.sublimetext.com/),
+[mypy](https://github.com/python/mypy),
+[pyright](https://github.com/microsoft/pyright)
+and other tools.
 
 | Project | Library | Docs | PyPI | Conda | VSCode | Support |
 |-|-|-|-|-|-|-|
