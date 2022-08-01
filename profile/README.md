@@ -19,6 +19,7 @@ and other tools.
 | [types-aioboto3](https://pypi.org/project/types-aioboto3/) | [aioboto3](https://pypi.org/project/aioboto3/) | [📃](https://youtype.github.io/types_aioboto3_docs/) | [types-aioboto3](https://pypi.org/project/types-aioboto3/) | | | [mypy_boto3_builder](https://github.com/youtype/mypy_boto3_builder) |
 | [botocore-stubs](https://pypi.org/project/botocore-stubs/) | [botocore](https://pypi.org/project/botocore/) | | [botocore-stubs](https://pypi.org/project/botocore-stubs/) |  | [Boto3 IDE](https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide&ssr=false) | [botocore-stubs](https://github.com/youtype/botocore-stubs) |
 | [types-s3transfer](https://pypi.org/project/types-s3transfer/) | [s3transfer](https://pypi.org/project/s3transfer/) | | [types-s3transfer](https://pypi.org/project/types-s3transfer/) | [types-s3transfer](https://anaconda.org/conda-forge/types-s3transfer) | [Boto3 IDE](https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide&ssr=false) | [types-s3transfer](https://github.com/youtype/types-s3transfer) |
+| [types-awscrt](https://pypi.org/project/types-awscrt/) | [awscrt](https://pypi.org/project/awscrt/) | | [types-awscrt](https://pypi.org/project/types-awscrt/) | | [Boto3 IDE](https://marketplace.visualstudio.com/items?itemName=Boto3typed.boto3-ide&ssr=false) | [types-awscrt](https://github.com/youtype/types-awscrt) |
 
 ## Projects
 
