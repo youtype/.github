@@ -62,3 +62,7 @@ Validator for type annotations.
 [![Update boto3-stubs docs](https://github.com/youtype/boto3_stubs_docs/actions/workflows/update.yml/badge.svg)](https://github.com/youtype/boto3_stubs_docs/actions/workflows/update.yml)
 [![Update types-aiobotocore docs](https://github.com/youtype/types_aiobotocore_docs/actions/workflows/update.yml/badge.svg)](https://github.com/youtype/types_aiobotocore_docs/actions/workflows/update.yml)
 [![Update types-aioboto3 docs](https://github.com/youtype/types_aioboto3_docs/actions/workflows/update.yml/badge.svg)](https://github.com/youtype/types_aioboto3_docs/actions/workflows/update.yml)
+
+[![Publish boto3-stubs](https://github.com/youtype/boto3-stubs/actions/workflows/publish_on_update.yml/badge.svg)](https://github.com/youtype/boto3-stubs/actions/workflows/publish_on_update.yml)
+[![Publish types-aiobotocore](https://github.com/youtype/types-aiobotocore/actions/workflows/publish_on_update.yml/badge.svg)](https://github.com/youtype/types-aiobotocore/actions/workflows/publish_on_update.yml)
+[![Publish types-aioboto3](https://github.com/youtype/types-aioboto3/actions/workflows/publish_on_update.yml/badge.svg)](https://github.com/youtype/types-aioboto3/actions/workflows/publish_on_update.yml)
