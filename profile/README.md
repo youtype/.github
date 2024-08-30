@@ -43,11 +43,9 @@ Validator for type annotations.
 
 ## Heartbeat
 
-[![boto3-stubs consistency](https://github.com/youtype/mypy_boto3_builder/actions/workflows/consistency_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/consistency_check.yml)
 [![boto3-stubs sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml)
 [![boto3-stubs integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration.yml)
 
-[![types-aiobotocore consistency](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_consistency_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_consistency_check.yml)
 [![types-aiobotocore sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml)
 [![types-aiobotocore integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_integration.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_integration.yml)
 
