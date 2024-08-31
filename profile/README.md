@@ -45,6 +45,7 @@ Validator for type annotations.
 
 [![boto3-stubs sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml)
 [![boto3-stubs integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration.yml)
+[![boto3-stubs-full integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration_full.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration_full.yml)
 
 [![types-aiobotocore sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml)
 [![types-aiobotocore integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_integration.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_integration.yml)
