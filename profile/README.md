@@ -28,7 +28,7 @@ and other tools.
 
 [GitHub](https://github.com/youtype/mypy_boto3_builder)
 
-Type annotations builder for boto3-stubs project. Compatible with VSCode, PyCharm, Emacs, Sublime Text, mypy, pyright and other tools.
+Type annotations builder for `types-boto3` project. Compatible with VSCode, PyCharm, Emacs, Sublime Text, mypy, pyright and other tools.
 
 ### AWS CLI v2 for Python
 
