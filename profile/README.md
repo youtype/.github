@@ -51,8 +51,10 @@ Validator for type annotations.
 
 ## Heartbeat
 
-[![types-boto3 sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml)
-[![types-aiobotocore sanity](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/aio_sanity_check.yml)
+[![Sanity: types-boto3](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_check.yml)
+[![Sanity: boto3-stubs](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_boto3_stubs.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_boto3_stubs.yml)
+[![Sanity: types-aiobotocore](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_types_aiobotocore.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_types_aiobotocore.yml)
+[![Sanity: types-aioboto3](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_types_aioboto3.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/sanity_types_aioboto3.yml)
 [![Integration](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration_full.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/integration_full.yml)
 
 [![Publish types-boto3](https://github.com/youtype/mypy_boto3_builder/actions/workflows/publish_types_boto3.yml/badge.svg)](https://github.com/youtype/mypy_boto3_builder/actions/workflows/publish_types_boto3.yml)
